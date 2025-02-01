@@ -6,9 +6,9 @@ int main(){
     int marks[5] = {80, 96, 70, 55, 65}; 
 
     // 1st way
-    // for(int i=0; i<5; i++){
-    //     cout <<  marks[i] << endl;
-    // }
+    for(int i=0; i<5; i++){
+        cout <<  marks[i] << endl;
+    }
 
     // 2nd way
     int size = 5;
