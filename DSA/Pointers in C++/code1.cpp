@@ -5,6 +5,6 @@ int main(){
 
     int a = 10;
     // To print address of variable a
-    cout << &a;
+    cout << &a << endl;
     return 0;
 }
