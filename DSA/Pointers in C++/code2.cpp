@@ -8,5 +8,6 @@ int main(){
 
     cout << ptr << endl;
     cout << &a << endl;
+    cout << &ptr << endl;
     return 0;
 }
