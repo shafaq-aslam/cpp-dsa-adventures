@@ -26,3 +26,44 @@ Whether you're just starting out or want to revise, feel free to explore!
 
 ## 🗂️ Folder Structure
 
+
+Each folder contains:
+- ✨ Well-structured code
+- 📘 Comments for clarity
+- 📄 Problem statements (where needed)
+
+---
+
+## 🚀 Platforms Used
+
+- ✅ [LeetCode](https://leetcode.com/)
+
+---
+
+## 🔥 Sample Topics Covered
+
+- ✅ Arrays & Strings
+- ✅ Linked Lists
+- ✅ Recursion & Backtracking
+- ✅ Trees & Binary Search Trees
+- ✅ Stacks & Queues
+- ✅ Graphs (BFS, DFS, etc.)
+- ✅ Dynamic Programming
+- ✅ Sliding Window, Two Pointer, etc.
+
+---
+
+## 🧠 Learning Goals
+
+- Strengthen **problem-solving** and **coding logic**
+- Build a solid foundation for **technical interviews**
+- Contribute regularly and track my growth
+
+---
+
+## 📣 Let's Connect
+
+If you found this helpful, feel free to ⭐ the repo, follow my journey, and maybe even contribute!
+
+> 💬 “Consistency is more important than intensity.” — Let’s code a little every day!
+
