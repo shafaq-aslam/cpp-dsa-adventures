@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=200&section=header&text=cpp-dsa-adventures&fontSize=45&fontColor=FFFFFF" alt="cpp-dsa-adventures banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4f46e5&height=200&section=header&text=cpp-dsa-adventures%20🗺️&fontSize=45&fontColor=FFFFFF" alt="cpp-dsa-adventures banner"/>
 </p>
 
 <h1 align="center">🧭 cpp-dsa-adventures</h1>
