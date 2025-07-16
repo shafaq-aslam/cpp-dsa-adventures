@@ -5,6 +5,7 @@ int main(){
     cout << "Shafaq Aslam" << endl;
     cout << "Shafaq" << "\n" << "Aslam";
     cout << "\nZainab\nAslam";
+    cout << "Shayan Aslam";
     return 0;
 }
 
